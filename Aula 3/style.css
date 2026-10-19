@@ -1,0 +1,36 @@
+body{
+margin:0 ;  
+background-image: url(img/fundo.jpg);
+
+
+}
+.bloco1{
+margin-top: 300px;
+ margin-left: 300px ;
+background-image: url(img/images\ \(1\).jpg);
+height: 250px;
+width: 250px;
+text-align: center;
+color:crimson;
+font-size: 30px;
+
+display:grid ;
+place-items: center;
+
+
+
+
+
+}
+.bloco2{
+margin-top: 150px;
+margin-left: 150px;
+background-image: url(img/goku\ 2.jpg);
+height: 150px;
+width: 150px;
+color: crimson;
+font-size: 30px;
+
+display: grid;
+place-items: center;
+}
